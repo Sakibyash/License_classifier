@@ -1,0 +1,7 @@
+gradio==3.0.0
+torch==2.0.1
+opencv-python==4.5.3.56
+pytesseract==0.3.8
+tesseract==5.0.0-alpha.20220317
+ultralytics==8.1.0  # New version if applicable
+numpy==1.21.0
